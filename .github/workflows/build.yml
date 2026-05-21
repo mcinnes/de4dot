@@ -11,7 +11,7 @@ on:
 
 jobs:
   build:
-    name: Build
+    name: BuildW
     runs-on: windows-latest
 
     steps:
